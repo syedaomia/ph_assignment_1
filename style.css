@@ -1,0 +1,240 @@
+body {
+    margin: 0;
+}
+
+section {
+    margin-bottom: 100px;
+}
+
+.background {
+    background-image: url(images/donation5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    width: 100% !important;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    text-align: center;
+
+}
+
+.background h1 {
+    color: white;
+    font-size: 100px;
+}
+
+.background p {
+    color: white;
+    font-size: 38px;
+    margin-bottom: 130px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 38px;
+
+    background-color: #FF5959;
+    padding: 20px;
+    border-radius: 5px;
+
+}
+
+.donate-today {
+    text-align: center;
+}
+
+.donate-today h1 {
+    color: black;
+    font-size: 100px;
+
+}
+
+.para {
+    color: #707070;
+    font-size: 38px;
+    margin-bottom: 130px;
+}
+
+.end-para {
+    color: #707070;
+    font-size: 28px;
+    margin-top: 60px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #9f9f9f;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.taka {
+    display: flex;
+    width: 50%;
+    margin: 0 auto;
+
+}
+
+.tk {
+    background-color: #FAFAFA;
+    padding: 10px;
+    vertical-align: middle;
+}
+
+.tk p {
+    color: #707070;
+    font-weight: 700;
+    color: #707070;
+    font-size: 38px;
+
+}
+
+.num {
+    margin-right: 10px;
+}
+
+.donate-plan {
+    text-align: center;
+}
+
+.donate-plan h1 {
+    color: black;
+    font-size: 100px;
+
+}
+
+.big-box {
+    display: flex;
+    width: 50%;
+    margin: 0 auto;
+
+}
+
+.box {
+    background-color: #9f9f9f;
+    padding: 30px;
+    margin-right: 10px;
+}
+
+.box h3 {
+    font-size: 30px;
+}
+
+.box p {
+    text-align: left;
+}
+
+.box1 {
+    background-color: #4F9DA6;
+}
+
+.box2 {
+    background-color: #FF5959;
+}
+
+.box3 {
+    background-color: #FFF4D6;
+}
+
+.survive {
+    display: flex;
+    width: 50%;
+    margin: 0 auto;
+
+}
+
+.left h2 {
+    font-size: 30px;
+}
+
+.left p {
+    color: #707070;
+    margin-bottom: 45px;
+
+}
+
+.right img {
+    height: 300px;
+    margin-left: 20px;
+}
+
+.button {
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    background-color: #FF5959;
+    padding: 10px;
+    border-radius: 5px;
+
+
+}
+
+.get-my-updates h1 {
+    color: black;
+    font-size: 100px;
+    text-align: center;
+}
+
+.get-my-updates p {
+    color: #9f9f9f;
+    font-size: 38px;
+    margin-bottom: 130px;
+    text-align: center;
+}
+
+.update {
+    display: flex;
+    width: 50%;
+    margin: 0 auto;
+    background-color: #FFF4D6;
+    padding: 40px;
+    height: 140px;
+
+}
+
+.email {
+    width: 60%;
+    padding: 10px;
+    background-color: #9f9f9f;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+
+}
+
+.email p {
+    color: #707070;
+    text-align: left;
+
+
+
+}
+
+.subscribe {
+    width: 40%;
+    padding: 10px;
+    background-color: #FF5959;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+
+}
+
+.subscribe p {
+    color: white;
+    text-align: center;
+}
+
+footer {
+    background-color: #0B0D17;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+
+}
+
+footer h3 {
+    font-size: 30px;
+    color: #FF5959;
+}
+
+footer p {
+    color: white;
+}
